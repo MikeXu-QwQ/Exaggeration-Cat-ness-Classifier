@@ -4,4 +4,5 @@ pillow
 numpy==1.26.4
 torch==2.2.2+cpu
 torchvision==0.17.2+cpu
+timm==0.9.16
 --extra-index-url https://download.pytorch.org/whl/cpu
